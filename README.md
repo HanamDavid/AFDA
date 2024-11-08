@@ -1,7 +1,7 @@
 ![Header](../main/AFDA_Logo.png)
 
 # Machine Learning Project: Early Detection of Alzheimer's Disease
-
+> ⚠️ **Warning**: The code in this repository does **not** include the dataset. To access the full code along with the data, please refer to the [Google Drive link provided **Here** or at the end of the README](https://drive.google.com/drive/folders/1E8C5mfUhUIn2kf5w-dWC5QCEYz7wVLqw?usp=drive_link)
 ## Project Overview
 This project is a deep dive into the intersection of machine learning and healthcare, aimed at studying Alzheimer's Disease and showcasing how AI can assist in early diagnosis. Leveraging TensorFlow and audio data, the model is designed to predict if a person shows signs of Alzheimer's based on a 4-second audio clip, achieving a validation accuracy of 78%.
 
@@ -53,7 +53,7 @@ The model's performance is illustrated in the following confusion matrix:
 Compared to other studied projects, the results were strong given the limited dataset, showcasing the power of convolutional layers and MFCC in disease discrimination. The performance was similar to projects 1 and 4, but there is room for improvement to build even more robust models.
 
 ## Explore and Collaborate
-For more details, code, and resources, check out the full project here or read The Paper found in this repository in spanish or in english:
+For more details, the full code, and resources, check out the full project here or read The Paper found in this repository in spanish or in english:
 [Download the project code](https://drive.google.com/drive/folders/1E8C5mfUhUIn2kf5w-dWC5QCEYz7wVLqw?usp=drive_link)
 
 ---
